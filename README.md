@@ -1,6 +1,6 @@
 # Superstore-Sales-and-Revenue-Analysis
 
-## 📌 Project Overview
+## Project Overview
 This project is an interactive **Sales & Revenue Dashboard** built in **Tableau** using the **Sample Superstore dataset**.  
 The dashboard helps analyze business performance across **sales, profit, products, and regions**.
 
@@ -8,7 +8,7 @@ It is designed to support **data-driven decision making** by identifying revenue
 
 ---
 
-## 🎯 Objective
+## Objective
 To analyze retail sales data and create an interactive dashboard that answers key business questions such as:
 
 - How are sales trending over time?
@@ -18,7 +18,7 @@ To analyze retail sales data and create an interactive dashboard that answers ke
 
 ---
 
-## 🛠 Tools & Technologies Used
+## Tools & Technologies Used
 - **Tableau**
 - **Excel**
 - **Data Cleaning**
@@ -29,7 +29,7 @@ To analyze retail sales data and create an interactive dashboard that answers ke
 
 ---
 
-## 📈 Key KPIs Tracked
+## Key KPIs Tracked
 - **Total Sales**
 - **Total Profit**
 - **Total Orders**
@@ -37,7 +37,7 @@ To analyze retail sales data and create an interactive dashboard that answers ke
 
 ---
 
-## 📊 Dashboard Features
+## Dashboard Features
 - Revenue trend over time
 - Top-selling products / sub-categories
 - Region-wise sales analysis
@@ -50,7 +50,7 @@ To analyze retail sales data and create an interactive dashboard that answers ke
 
 ---
 
-## 🔍 Key Insights
+## Key Insights
 - Identified high-performing and low-performing regions
 - Analyzed product categories contributing most to sales
 - Detected sub-categories with high sales but low profit
@@ -58,26 +58,26 @@ To analyze retail sales data and create an interactive dashboard that answers ke
 
 ---
 
-## 📂 Files in this Repository
+## Files in this Repository
 - `Superstore Sales and Revenue Analysis.twbx` → Tableau dashboard file
 - `Sample - Superstore.xlsx` → Dataset used
 - `Dashboard.png` → Dashboard preview image
 
 ---
 
-## 📸 Dashboard Preview
+## Dashboard Preview
 ![Dashboard Preview](Dashboard.png)
 
 ---
 
-## 🚀 How to Use
+## How to Use
 1. Download the repository files
 2. Open `Sales_Revenue_Dashboard.twbx` in Tableau
 3. Explore the interactive dashboard
 
 ---
 
-## 💼 Resume Value
+## Resume Value
 This project demonstrates skills in:
 - Tableau Dashboarding
 - Business Data Analysis
@@ -88,5 +88,5 @@ This project demonstrates skills in:
 
 ---
 
-## 👤 Author
+## Author
 **Arin Ayare**
